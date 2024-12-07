@@ -13,9 +13,10 @@ body {
 	  color: black;
 	  background: #F0F0F0;
 	  font-family: Arial, "Avenir Next", Calibri, Verdana, sans-serif;
-	  font-size: 18px;
+	  font-size: 	16px;
+	  line-height: 	18px;
 	  font-stretch: normal;
-	  width: 700px;
+	  width: 	700px;
 }
 
 h1 {
